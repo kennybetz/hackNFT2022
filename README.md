@@ -21,8 +21,11 @@ NFT Port - looking into
 Graph protocol - create subgraph to query data from games associated with tokenIDs, can create some fake data on rinkeby testnet under different smart contracts with xp or level status to pull.
 
 ETH SC live on rinkeby testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
+https://rinkeby.etherscan.io/token/0x7e9067635dbaafbfa3c67e5b4b7ce25a8e2e9f98
+tokenId : tokeURI = 0 : GMRtag , 1 : Killer🦄 , 2 : 😜 , 3 : kenny , 4 : Conan , 5 : Creditor , 6 : Rick , 7 : Rick , 8: Rick
 
 ONE SC live on testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
+https://explorer.testnet.harmony.one/address/0x7e9067635dbaafbfa3c67e5b4b7ce25a8e2e9f98
 
 NFTs minted and imported to openSea, integration with data:text uri weak
 https://testnets.opensea.io/collection/gamer-name-service

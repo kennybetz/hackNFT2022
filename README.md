@@ -5,6 +5,8 @@ Symbol: GMRtag
 
 Character Building NFTs - Proof of Grind
 
+Initial integration with saveable D&D Character sheets and Dungeon Master quest save points.
+
 Game designers can utilize a unique id among players to track their stats across games. Allows players the choice of any name they see fit to represent characters on their epic multi-game quests. ERC721 compliant OpenZeppelin smart contracts with custom Hook, Function and Mapping Variable.
 
 Character naming done through custom tokenURI with base string of “data:text/plain;charset=UTF-8;,” and user input percent encoded utf-8 allowing any unicode characters including emojis to be used as character names.

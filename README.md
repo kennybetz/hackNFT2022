@@ -22,7 +22,7 @@ Graph protocol - create subgraph to query data from games associated with tokenI
 
 ETH SC live on rinkeby testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
 https://rinkeby.etherscan.io/token/0x7e9067635dbaafbfa3c67e5b4b7ce25a8e2e9f98
-tokenId : tokeURI = 0 : GMRtag , 1 : Killer🦄 , 2 : 😜 , 3 : kenny , 4 : Conan , 5 : Creditor , 6 : Rick , 7 : Rick , 8: Rick
+tokenId : tokenURI = 0 : GMRtag , 1 : Killer🦄 , 2 : 😜 , 3 : kenny , 4 : Conan , 5 : Creditor , 6 : Rick , 7 : Rick , 8: Rick
 
 ONE SC live on testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
 https://explorer.testnet.harmony.one/address/0x7e9067635dbaafbfa3c67e5b4b7ce25a8e2e9f98
@@ -32,7 +32,7 @@ https://testnets.opensea.io/collection/gamer-name-service
 
 
 Working on - 
-Scaffold for demo of Smart Contract Functionality - works for video submission on testing ropsten network currently
+Scaffold for demo of Smart Contract Functionality - works for video submission on testing currently not live - had some trouble with dependencies and just started working with scaffold so way behind but so far it's awesome!
 
 React app to demo smart contract wallet login to game with NFT recognition - not yet live
 Connect Wallet Button , reads smart contract, pulls default GMRtag. Support UnLock to give access granted / denied messages.

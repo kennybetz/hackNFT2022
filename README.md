@@ -16,15 +16,16 @@ The marketplace is really the most novel idea as the NFTs create value through t
 Awards to integrate -
 Looking at how to use UnLock logic in Smart Contract Code - Target tokenIDs with free game trials.
 
-NFT Port - looking into currently
+NFT Port - looking into
+
 Graph protocol - create subgraph to query data from games associated with tokenIDs, can create some fake data on rinkeby testnet under different smart contracts with xp or level status to pull.
 
-ETH live on rinkeby testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
+ETH SC live on rinkeby testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
 
-ONE live on testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
+ONE SC live on testnet @0x7E9067635dBaafbFA3c67e5b4B7CE25a8E2e9f98 - minted 9 Character NFTs
 
 NFTs minted and imported to openSea, integration with data:text uri weak
-https://testnets.opensea.io/assets/0x7e9067635dbaafbfa3c67e5b4b7ce25a8e2e9f98/7
+https://testnets.opensea.io/collection/gamer-name-service
 
 
 Working on - 
